@@ -13,5 +13,10 @@
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://status.yaria.top/"
+  },
+  {
+    "icon": "Link",
+    "name": "友链管理",
+    "link": "https://links.yaria.top/"
   }
 ]
